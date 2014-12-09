@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="hello">Hello World,Jasmin Lee!留恋青葱</string>
+    <string name="go">浏览</string>
+    <string name="msg_dialog">你好，茉莉！</string>
+    <string name="menu1_txt">属性</string>
+    <string name="menu2_txt">退出</string>
+    <string name="showTxt">"显示个人属性信息"</string>
+    <string name="button_send">发送消息</string>
+</resources>

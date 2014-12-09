@@ -1,0 +1,14 @@
+#OSX
+.DS_Store
+target/
+
+.idea/
+*.iml
+
+#Gradle
+build/
+.gradle/
+out/
+bin/
+gen/
+local.properties
