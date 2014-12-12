@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+    <TextView
+            android:id="@+id/imageTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="@string/image_title"
+            />
+    <TextView
+            android:id="@+id/imageDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/image_date"
+            />
+                       <!--android:adjustViewBounds="true"-->
+            <ImageView
+                    android:id="@+id/imageDisplay"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/img_19"
+                    />
+
+    <ScrollView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingTop="0dp">
+        <TextView
+                android:id="@+id/imageDescription"
+                android:textSize="17dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/image_description"
+                />
+    </ScrollView>
+
+    <LinearLayout android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:background="#ff808080"
+                  android:layout_marginTop="0dp"
+                  android:padding="5dp"
+                  android:layout_weight="0">
+        <Button android:id="@+id/refresh"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_gravity="center_horizontal"
+                android:text="下一张"
+               />
+
+    </LinearLayout>
+</LinearLayout>
+

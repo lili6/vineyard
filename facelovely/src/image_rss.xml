@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/"
+                                             xmlns:atom="http://www.w3.org/2005/Atom"
+                                             xmlns:dc="http://purl.org/dc/elements/1.1/"
+                                             xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+                                             xmlns:media="http://search.yahoo.com/mrss/">
+    <channel> <title>NASA Image of the Day</title>
+    <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+    <link>http://www.nasa.gov/</link>
+    <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" />
+    <language>en-us</language>
+    <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+    <webMaster>brian.dunbar@nasa.gov</webMaster>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item> <title>Colorful and Plankton-Full Patagonian Waters</title>
+        <link>http://www.nasa.gov/content/colorful-and-plankton-full-patagonian-waters</link>
+        <description>Late spring and summer weather brings blooms of color to the Atlantic Ocean off of South America, at least from a satellite view. The Patagonian Shelf Break is a biologically rich patch of ocean where airborne dust from the land, iron-rich currents from the south, and upwelling currents from the depths provide a bounty of nutrients for the grass of the sea—phytoplankton. In turn, those floating sunlight harvesters become food for some of the richest fisheries in the world.
+
+            The Visible Infrared Imaging Radiometer Suite (VIIRS) on Suomi NPP captured this view of phytoplankton-rich waters off of Argentina on Dec. 2, 2014. Scientists in NASA’s Ocean Color Group used three wavelengths (671, 551, and 443 nanometers) of visible and near-infrared light to highlight different plankton communities in the water. Bands of color not only reveal the location of plankton, but also the dynamic eddies and currents that carry them.
+
+            &gt; More Information
+
+            Image Credit: Norman Kuring, NASA’s Ocean Color Group, using VIIRS data from the Suomi National Polar-orbiting Partnership</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/patagonianshelf_vir_2014336_lrg.jpg?itok=sJcH85U3" length="3781793" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/colorful-and-plankton-full-patagonian-waters</guid>
+        <pubDate>Thu, 11 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Great Lakes and Central U.S. Viewed From the International Space Station</title>
+        <link>http://www.nasa.gov/content/great-lakes-and-central-us-viewed-from-the-international-space-station</link>
+        <description>From the International Space Station, Expedition 42 Commander Barry Wilmore took this photograph of the Great Lakes and central U.S. on Dec. 7, 2014, and posted it to social media.
+
+            This week on the station, the Expedition 42 crew has been busy with medical science and spacesuit work while preparing for the arrival of SpaceX&#039;s Dragon commercial cargo craft, scheduled to launch on Dec. 16 on a two day trip to the station before it is captured by the Canadarm2 and berthed to the Harmony node.
+
+            Image Credit: NASA/Barry Wilmore</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/iss042e024272.jpg?itok=lmpwk0zb" length="3262288" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/great-lakes-and-central-us-viewed-from-the-international-space-station</guid>
+        <pubDate>Wed, 10 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Sedimentary Signs of a Martian Lakebed</title>
+        <link>http://www.nasa.gov/jpl/msl/pia19074</link>
+        <description>This evenly layered rock photographed by the Mast Camera (Mastcam) on NASA&#039;s Curiosity Mars Rover shows a pattern typical of a lake-floor sedimentary deposit not far from where flowing water entered a lake.
+
+            The scene combines multiple frames taken with Mastcam&#039;s right-eye camera on Aug. 7, 2014, during the 712th Martian day, or sol, of Curiosity&#039;s work on Mars. It shows an outcrop at the edge of &quot;Hidden Valley,&quot; seen from the valley floor.  This view spans about 5 feet (1.5 meters) across in the foreground.  The color has been approximately white-balanced to resemble how the scene would appear under daytime lighting conditions on Earth. Figure A is a version with a superimposed scale bar of 50 centimeters (about 20 inches).
+
+            This is an example of a thick-laminated, evenly-stratified rock type that forms stratigraphically beneath cross-bedded sandstones regarded as ancient river deposits.  These rocks are interpreted to record sedimentation in a lake, as part of or in front of a delta, where plumes of river sediment settled out of the water column and onto the lake floor.
+
+            NASA&#039;s Jet Propulsion Laboratory, a division of the California Institute of Technology, Pasadena, manages the Mars Science Laboratory Project for NASA&#039;s Science Mission Directorate, Washington. JPL designed and built the project&#039;s Curiosity rover.  Malin Space Science Systems, San Diego, built and operates the rover&#039;s Mastcam. For more information about Curiosity, visit http://www.nasa.gov/msl and http://mars.jpl.nasa.gov/msl.
+
+            &gt; Unannotated image
+
+            &gt; Related: NASA’s Curiosity Rover Finds Clues to How Water Helped Shape Martian Landscape
+
+            Image Credit: NASA/JPL-Caltech/MSSS</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/pia19074-figa_grotz-1_0712mr03030rsb_sc.jpg?itok=N2OAlvBS" length="1389368" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/jpl/msl/pia19074</guid>
+        <pubDate>Tue, 09 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Orion Recovery</title>
+        <link>http://www.nasa.gov/content/orion-recovery-1</link>
+        <description>(Dec. 5, 2014) --- NASA&#039;s Orion spacecraft awaits the U.S. Navy&#039;s USS Anchorage for a ride home. Orion launched into space on a two-orbit, 4.5-hour test flight at 7:05 am EST on Dec. 5, and safely splashed down in the Pacific Ocean, where a combined team from NASA, the Navy and Orion prime contractor Lockheed Martin retrieved it for return to shore on board the Anchorage. It is expected to be off loaded at Naval Base San Diego on Monday.
+
+            Photo credit: U.S. Navy</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/20141205-awg0001_0228.jpg?itok=1vQaHqMv" length="1991397" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/orion-recovery-1</guid>
+        <pubDate>Mon, 08 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Launch of Orion</title>
+        <link>http://www.nasa.gov/content/launch-of-orion</link>
+        <description>The United Launch Alliance Delta IV Heavy rocket, with NASA’s Orion spacecraft mounted atop, lifts off from Cape Canaveral Air Force Station&#039;s Space Launch Complex 37 at at 7:05 a.m. EST, Friday, Dec. 5, 2014, in Florida. The Orion spacecraft will orbit Earth twice, reaching an altitude of approximately 3,600 miles above Earth before landing in the Pacific Ocean. No one is aboard Orion for this flight test, but the spacecraft is designed to allow us to journey to destinations never before visited by humans, including an asteroid and Mars.
+
+            Photo Credit: NASA/Bill Ingalls</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/15764391618_d4f103aaf9_o.jpg?itok=rHut0NEv" length="2208453" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/launch-of-orion</guid>
+        <pubDate>Fri, 05 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Mobile Service Tower Rolled Back for Orion Flight Test</title>
+        <link>http://www.nasa.gov/content/mobile-service-tower-rolled-back-for-orion-flight-test</link>
+        <description>A United Launch Alliance Delta IV Heavy rocket with NASA’s Orion spacecraft mounted atop is seen after the Mobile Service Tower was finished rolling back early on Thursday, Dec. 4, 2014, at Cape Canaveral Air Force Station&#039;s Space Launch Complex 37, Florida.
+
+            The next launch opportunity for the Orion flight test is 7:05 a.m. EST on Friday, Dec. 5. The spacecraft will orbit Earth twice, reaching an altitude of approximately 3,600 miles above Earth before landing in the Pacific Ocean. No one will be aboard Orion for this flight test, but the spacecraft is designed to allow us to journey to destinations never before visited by humans, including an asteroid and Mars.
+
+            Photo Credit: NASA/Bill Ingalls</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/15942437832_c6d9d04564_o.jpg?itok=eDFXjplF" length="1933262" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/mobile-service-tower-rolled-back-for-orion-flight-test</guid>
+        <pubDate>Thu, 04 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>NASA&#039;s Orion Spacecraft Prepared for Launch</title>
+        <link>http://www.nasa.gov/content/nasas-orion-spacecraft-prepared-for-launch</link>
+        <description>NASA’s Orion spacecraft, mounted atop a United Launch Alliance Delta IV Heavy rocket, is visible inside the Mobile Service Tower where the vehicle is undergoing launch preparations, Wednesday, Dec. 3, 2014, Cape Canaveral Air Force Station&#039;s Space Launch Complex 37, Florida. Orion is NASA’s new spacecraft built to carry humans, designed to allow us to journey to destinations never before visited by humans, including an asteroid and Mars.
+
+            Photo Credit: NASA/Bill Ingalls</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/15939386302_d15241a371_o.jpg?itok=EqmlweBY" length="1818916" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/nasas-orion-spacecraft-prepared-for-launch</guid>
+        <pubDate>Wed, 03 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>NASA&#039;s Journey to Mars</title>
+        <link>http://www.nasa.gov/content/nasas-journey-to-mars</link>
+        <description>NASA is developing the capabilities needed to send humans to an asteroid by 2025 and Mars in the 2030s – goals outlined in the bipartisan NASA Authorization Act of 2010 and in the U.S. National Space Policy, also issued in 2010.
+
+            Mars is a rich destination for scientific discovery and robotic and human exploration as we expand our presence into the solar system. Its formation and evolution are comparable to Earth, helping us learn more about our own planet’s history and future. Mars had conditions suitable for life in its past. Future exploration could uncover evidence of life, answering one of the fundamental mysteries of the cosmos: Does life exist beyond Earth?
+
+            While robotic explorers have studied Mars for more than 40 years, NASA’s path for the human exploration of Mars begins in low-Earth orbit aboard the International Space Station. Astronauts on the orbiting laboratory are helping us prove many of the technologies and communications systems needed for human missions to deep space, including Mars. The space station also advances our understanding of how the body changes in space and how to protect astronaut health.
+
+            Our next step is deep space, where NASA will send a robotic mission to capture and redirect an asteroid to orbit the moon. Astronauts aboard the Orion spacecraft will explore the asteroid in the 2020s, returning to Earth with samples. This experience in human spaceflight beyond low-Earth orbit will help NASA test new systems and capabilities, such as Solar Electric Propulsion, which we’ll need to send cargo as part of human missions to Mars. Beginning in FY 2018, NASA’s powerful Space Launch System rocket will enable these “proving ground” missions to test new capabilities. Human missions to Mars will rely on Orion and an evolved version of SLS that will be the most powerful launch vehicle ever flown.
+
+            A fleet of robotic spacecraft and rovers already are on and around Mars, dramatically increasing our knowledge about the Red Planet and paving the way for future human explorers. The Mars Science Laboratory Curiosity rover measured radiation on the way to Mars and is sending back radiation data from the surface. This data will help us plan how to protect the astronauts who will explore Mars. Future missions like the Mars 2020 rover, seeking signs of past life, also will demonstrate new technologies that could help astronauts survive on Mars.
+
+            Engineers and scientists around the country are working hard to develop the technologies astronauts will use to one day live and work on Mars, and safely return home from the next giant leap for humanity. NASA also is a leader in a Global Exploration Roadmap, working with international partners and the U.S. commercial space industry on a coordinated expansion of human presence into the solar system, with human missions to the surface of Mars as the driving goal. Follow our progress at www.nasa.gov/exploration and www.nasa.gov/mars.
+
+            &gt; NASA&#039;s Orion Flight Test and the Journey to Mars
+
+            Image Credit: NASA</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/journey_to_mars.jpeg?itok=T4v1OZxl" length="781139" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/nasas-journey-to-mars</guid>
+        <pubDate>Tue, 02 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>NASA&#039;s Orion Spacecraft at the Launch Pad</title>
+        <link>http://www.nasa.gov/content/nasas-orion-spacecraft-at-the-launch-pad</link>
+        <description>With access doors at Space Launch Complex 37 opened on Nov. 24, 2014, the Orion spacecraft and Delta IV Heavy stack is visible in its entirety inside the Mobile Service Tower where the vehicle is undergoing launch preparations. Orion will make its first flight test on Dec. 4 with a morning launch atop the United Launch Alliance Delta IV Heavy rocket. Orion’s crew module is underneath the Launch Abort System and nose fairing, both of which will jettison about six minutes, 20 seconds after launch. The tower will be rolled away from the rocket and spacecraft 8 hours, 15 minutes before launch to allow the rocket to be fueled and for other launch operations to proceed.
+
+            The spacecraft will orbit the Earth twice, including one loop that will reach 3,600 miles above Earth. No one will be aboard Orion for this flight test, but the spacecraft is being designed and built to carry astronauts on exploration missions into deep space. Launch is scheduled for Thursday, Dec. 4 at 7:05 a.m. EST, the opening of a 2 hour, 39-minute window for the day.
+
+            Image Credit: NASA/Kim Shiflett</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/15697136810_8708bdacd6_o.jpg?itok=M7qv-gWc" length="1226746" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/nasas-orion-spacecraft-at-the-launch-pad</guid>
+        <pubDate>Mon, 01 Dec 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Black Hole Friday</title>
+        <link>http://www.nasa.gov/content/black-hole-friday</link>
+        <description>In this artist&#039;s illustration, turbulent winds of gas swirl around a black hole. Some of the gas is spiraling inward toward the black hole, but another part is blown away.
+
+            A black hole is a place in space where gravity pulls so much that even light can not get out. The gravity is so strong because matter has been squeezed into a tiny space. This can happen when a star is dying.
+
+            Because no light can get out, people can&#039;t see black holes. They are invisible. Space telescopes with special tools can help find black holes. The special tools can see how stars that are very close to black holes act differently than other stars.
+
+            How Big Are Black Holes?
+            Black holes can be big or small. Scientists think the smallest black holes are as small as just one atom. These black holes are very tiny but have the mass of a large mountain. Mass is the amount of matter, or &quot;stuff,&quot; in an object.
+
+            More information on black holes.
+
+            Artwork Credit: NASA, and M. Weiss (Chandra X -ray Center)</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/592260main_blackhole-outflow.jpg?itok=Rf5p_u0c" length="259463" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/black-hole-friday</guid>
+        <pubDate>Fri, 28 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>International Space Station’s 3-D Printer</title>
+        <link>http://www.nasa.gov/content/international-space-station-s-3-d-printer</link>
+        <description>The International Space Station’s 3-D printer has manufactured the first 3-D printed object in space, paving the way to future long-term space expeditions. The object, a printhead faceplate, is engraved with names of the organizations that collaborated on this space station technology demonstration: NASA and Made In Space, Inc., the space manufacturing company that worked with NASA to design, build and test the 3-D printer.
+
+            This image of the printer, with the Microgravity Science Glovebox Engineering Unit in the background, was taken in April 2014 during flight certification and acceptance testing at NASA&#039;s Marshall Space Flight Center in Huntsville, Alabama, prior to its launch to the station aboard a SpaceX commercial resupply mission. The first objects built in space will be returned to Earth in 2015 for detailed analysis and comparison to the identical ground control samples made on the flight printer prior to launch. The goal of this analysis is to verify that the 3-D printing process works the same in microgravity as it does on Earth.
+
+            The printer works by extruding heated plastic, which then builds layer upon layer to create three-dimensional objects. Testing this on the station is the first step toward creating a working &quot;machine shop&quot; in space. This capability may decrease cost and risk on the station, which will be critical when space explorers venture far from Earth and will create an on-demand supply chain for needed tools and parts. Long-term missions would benefit greatly from onboard manufacturing capabilities. Data and experience gathered in this demonstration will improve future 3-D manufacturing technology and equipment for the space program, allowing a greater degree of autonomy and flexibility for astronauts.
+
+            Image Credit: NASA/Emmett Given</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/_elg6172.jpg?itok=rOW-cYE-" length="1479547" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/international-space-station-s-3-d-printer</guid>
+        <pubDate>Wed, 26 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Supercomputer Simulation of Magnetic Field Loops on the Sun</title>
+        <link>http://www.nasa.gov/ames/magnetic-field-loops-on-the-sun</link>
+        <description>Magnetic fields emerging from below the surface of the sun influence the solar wind—a stream of particles that blows continuously from the sun’s atmosphere through the solar system. Researchers at NASA and its university partners are using high-fidelity computer simulations to learn how these magnetic fields emerge, heat the sun’s outer atmosphere and produce sunspots and flares.
+
+            This visualization shows magnetic field loops in a portion of the sun, with colors representing magnetic field strength from weak (blue) to strong (red). The simulation was run on the Pleiades supercomputer at the NASA Advanced Supercomputing facility at NASA&#039;s Ames Research Center in Moffett Field, California.
+
+            The knowledge gained through simulation results like this one help researchers better understand the sun, its variations, and its interactions with Earth and the solar system.
+
+            Image Credit: Robert Stein, Michigan State University; Timothy Sandstrom, NASA/Ames
+
+            &gt; Related: NASA showcased more than 35 of the agency’s exciting computational achievements at SC14, the international supercomputing conference, Nov. 16-21, 2014, in New Orleans.</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/sc14_iotd_solar.png?itok=QPQHqsOM" length="2245802" type="image/png" />
+        <guid isPermaLink="false">http://www.nasa.gov/ames/magnetic-field-loops-on-the-sun</guid>
+        <pubDate>Tue, 25 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Europa&#039;s Stunning Surface</title>
+        <link>http://www.nasa.gov/jpl/europas-stunning-surface</link>
+        <description>The puzzling, fascinating surface of Jupiter’s icy moon Europa looms large in this newly-reprocessed color view, made from images taken by NASA&#039;s Galileo spacecraft in the late 1990s. This is the color view of Europa from Galileo that shows the largest portion of the moon&#039;s surface at the highest resolution.
+
+            The view was previously released as a mosaic with lower resolution and strongly enhanced color (see PIA02590). To create this new version, the images were assembled into a realistic color view of the surface that approximates how Europa would appear to the human eye.
+
+            The scene shows the stunning diversity of Europa’s surface geology. Long, linear cracks and ridges crisscross the surface, interrupted by regions of disrupted terrain where the surface ice crust has been broken up and re-frozen into new patterns.
+
+            Color variations across the surface are associated with differences in geologic feature type and location. For example, areas that appear blue or white contain relatively pure water ice, while reddish and brownish areas include non-ice components in higher concentrations. The polar regions, visible at the left and right of this view, are noticeably bluer than the more equatorial latitudes, which look more white. This color variation is thought to be due to differences in ice grain size in the two locations.
+
+            Images taken through near-infrared, green and violet filters have been combined to produce this view. The images have been corrected for light scattered outside of the image, to provide a color correction that is calibrated by wavelength. Gaps in the images have been filled with simulated color based on the color of nearby surface areas with similar terrain types.
+
+            This global color view consists of images acquired by the Galileo Solid-State Imaging (SSI) experiment on the spacecraft&#039;s first and fourteenth orbits through the Jupiter system, in 1995 and 1998, respectively. Image scale is 1 mile (1.6 kilometers) per pixel. North on Europa is at right.
+
+            The Galileo mission was managed by NASA&#039;s Jet Propulsion Laboratory in Pasadena, California, for the agency&#039;s Science Mission Directorate in Washington. JPL is a division of the California Institute of Technology, Pasadena.
+
+            Additional information about Galileo and its discoveries is available on the Galileo mission home page at http://solarsystem.nasa.gov/galileo/. More information about Europa is available at http://solarsystem.nasa.gov/europa.
+
+            Image Credit: NASA/JPL-Caltech/SETI Institute</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/pia19048.jpg?itok=H8ygT4YB" length="2711468" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/jpl/europas-stunning-surface</guid>
+        <pubDate>Mon, 24 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Expedition 42 Launches to the International Space Station</title>
+        <link>http://www.nasa.gov/content/expedition-42-launches-to-the-international-space-station</link>
+        <description>The Soyuz TMA-15M rocket launches from the Baikonur Cosmodrome in Kazakhstan on Monday, Nov. 24, 2014 as seen in this long exposure carrying Expedition 42 Soyuz Commander Anton Shkaplerov of the Russian Federal Space Agency (Roscosmos), Flight Engineer Terry Virts of NASA, and Flight Engineer Samantha Cristoforetti of the European Space Agency (ESA) into orbit to begin their five and a half month mission on the International Space Station.
+
+            Image Credit: NASA/Aubrey Gemignani</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/201411240003hq.jpg?itok=SKI3SohT" length="449795" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/expedition-42-launches-to-the-international-space-station</guid>
+        <pubDate>Sun, 23 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Expedition 42 Soyuz Rocket Rolls Out</title>
+        <link>http://www.nasa.gov/content/expedition-42-soyuz-rocket-rolls-out</link>
+        <description>The Soyuz TMA-15M spacecraft is rolled out to the launch pad by train on Friday, Nov. 21, 2014 at the Baikonur Cosmodrome in Kazakhstan.  Launch of the Soyuz rocket is scheduled for Nov. 24 and will carry Expedition 42 Soyuz Commander Anton Shkaplerov of the Russian Federal Space Agency (Roscosmos), Flight Engineer Terry Virts of NASA , and Flight Engineer Samantha Cristoforetti of the European Space Agency into orbit to begin their five and a half month mission on the International Space Station.
+
+            Image Credit: NASA/Aubrey Gemignani</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/201411210014hq.jpg?itok=xusHijY-" length="9440082" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/expedition-42-soyuz-rocket-rolls-out</guid>
+        <pubDate>Fri, 21 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Swift Gamma-Ray Burst Mission Marks Ten Years of Discovery</title>
+        <link>http://www.nasa.gov/content/swift-gamma-ray-burst-mission-marks-ten-years-of-discovery</link>
+        <description>On Nov. 20, 2004, NASA&#039;s Swift spacecraft lifted off aboard a Boeing Delta II rocket from Cape Canaveral Air Force Station, Fla., beginning its mission to study gamma-ray bursts and identify their origins. Gamma-ray bursts are the most luminous explosions in the cosmos. Most are thought to be triggered when the core of a massive star runs out of nuclear fuel, collapses under its own weight, and forms a black hole. The black hole then drives jets of particles that drill all the way through the collapsing star and erupt into space at nearly the speed of light.
+
+            Astronomers at NASA and Pennsylvania State University used Swift to create the most detailed ultraviolet light surveys ever of the Large and Small Magellanic Clouds, the two closest major galaxies. Nearly a million ultraviolet sources appear in this mosaic of the Large Magellanic Cloud, which was assembled from 2,200 images taken by Swift&#039;s Ultraviolet/Optical Telescope (UVOT) and released on June 3, 2013. The 160-megapixel image required a cumulative exposure of 5.4 days. The image includes light from 1,600 to 3,300 angstroms -- UV wavelengths largely blocked by Earth&#039;s atmosphere -- and has an angular resolution of 2.5 arcseconds at full size. The Large Magellanic Cloud is about 14,000 light-years across.
+
+            Viewing in the ultraviolet allows astronomers to suppress the light of normal stars like the sun, which are not very bright at such higher energies, and provides a clearer picture of the hottest stars and star-formation regions. No telescope other than UVOT can produce such high-resolution wide-field multicolor surveys in the ultraviolet.
+
+            Pennsylvania State University manages the Swift Mission Operations Center, which controls Swift&#039;s science and flight operations. Goddard manages Swift, which was launched in November 2004. The satellite is operated in collaboration with Penn State, the Los Alamos National Laboratory in New Mexico and Orbital Sciences Corp. in Dulles, Va. International collaborators are in the United Kingdom and Italy, and the mission includes contributions from Germany and Japan.
+
+            Image Credit: NASA/Swift/S. Immler (Goddard) and M. Siegel (Penn State)</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/lmc_7k.jpg?itok=kjKynt2n" length="42083331" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/swift-gamma-ray-burst-mission-marks-ten-years-of-discovery</guid>
+        <pubDate>Thu, 20 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>MSH 11-62 Supernova Remnant</title>
+        <link>http://www.nasa.gov/mission_pages/chandra/news/MSH_11-62.html</link>
+        <description>A long observation with Chandra of the supernova remnant MSH 11-62 reveals an irregular shell of hot gas, shown in red, surrounding an extended nebula of high energy X-rays, shown in blue. Even though scientists have yet to detect any pulsations from the central object within MSH 11-62, the structure around it has many of the same characteristics as other pulsar wind nebulas. The reverse shock and other, secondary shocks within MSH 11-62 appear to have begun to crush the pulsar wind nebula, possibly contributing to its elongated shape. (Note: the orientation of this image has been rotated by 24 degrees so that north is pointed to the upper left.)
+
+            Image credit:  NASA/CXC/SAO/P. Slane et al.
+
+            › Read feature</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/msh1162.jpg?itok=6LlKpgPo" length="3160030" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/news/MSH_11-62.html</guid>
+        <pubDate>Tue, 18 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Successful Flight Test of Shape Changing Wing Surface</title>
+        <link>http://www.nasa.gov/content/successful-flight-test-of-shape-changing-wing-surface</link>
+        <description>NASA&#039;s green aviation project is one step closer to developing technology that could make future airliners quieter and more fuel-efficient with the successful flight test of a wing surface that can change shape in flight.
+
+            This past summer, researchers replaced an airplane’s conventional aluminum flaps with advanced, shape-changing assemblies that form seamless bendable and twistable surfaces. Flight testing will determine whether flexible trailing-edge wing flaps are a viable approach to improve aerodynamic efficiency and reduce noise generated during takeoffs and landings.
+
+            For the initial Adaptive Compliant Trailing Edge (ACTE) flight, shown in this image, the experimental control surfaces were locked at a specified setting. Varied flap settings on subsequent tests will demonstrate the capability of the flexible surfaces under actual flight conditions.
+
+            ACTE technology is expected to have far-reaching effects on future aviation. Advanced lightweight materials will reduce wing structural weight and give engineers the ability to aerodynamically tailor the wings to promote improved fuel economy and more efficient operations, while reducing environmental impacts.
+
+            &gt; More: NASA Tests Revolutionary Shape Changing Aircraft Flap for the First Time
+
+            Image Credit: NASA/Ken Ulbrich</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/ed14-0338-081.jpg?itok=P0w6wlYx" length="561926" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/successful-flight-test-of-shape-changing-wing-surface</guid>
+        <pubDate>Tue, 18 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Mixing Paints</title>
+        <link>http://www.nasa.gov/jpl/cassini/pia18290</link>
+        <description>Nature is an artist, and this time she seems to have let her paints swirl together a bit.
+
+            What the viewer might perceive to be Saturn&#039;s surface is really just the tops of its uppermost cloud layers. Everything we see is the result of fluid dynamics. Astronomers study Saturn&#039;s cloud dynamics in part to test and improve our understanding of fluid flows. Hopefully, what we learn will be useful for understanding our own atmosphere and that of other planetary bodies.
+
+            This view looks toward the sunlit side of the rings from about 25 degrees above the ringplane. The image was taken in red light with the Cassini spacecraft narrow-angle camera on Aug. 23, 2014.
+
+            The view was acquired at a distance of approximately 1.1 million miles (1.8 million kilometers) from Saturn and at a Sun-Saturn-spacecraft, or phase, angle of 127 degrees. Image scale is 7 miles (11 kilometers) per pixel.
+
+            The Cassini-Huygens mission is a cooperative project of NASA, the European Space Agency and the Italian Space Agency. The Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the mission for NASA&#039;s Science Mission Directorate, Washington, D.C. The Cassini orbiter and its two onboard cameras were designed, developed and assembled at JPL. The imaging operations center is based at the Space Science Institute in Boulder, Colo.
+
+            For more information about the Cassini-Huygens mission visit http://www.nasa.gov/cassini and http://saturn.jpl.nasa.gov . The Cassini imaging team homepage is at http://ciclops.org .
+
+            Credit: NASA/JPL-Caltech/Space Science Institute</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia18290_full.jpg?itok=UXIVB_0i" length="311952" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/jpl/cassini/pia18290</guid>
+        <pubDate>Mon, 17 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Exploring the World&#039;s Protected Areas from Space</title>
+        <link>http://www.nasa.gov/content/exploring-the-worlds-protected-areas-from-space</link>
+        <description>A new book released this week highlights how the view from space with Earth-orbiting sensors is being used to protect some of the world’s most interesting, changing, and threatened places. From space, Egmont National Park in New Zealand shows the benefits and limitations of protected areas. In this Landsat 8 image acquired on July 3, 2014, the park, with Mt. Taranaki at its center, was established in 1900. This isolated island of protected forest (dark green areas) is surrounded by once-forested pasturelands (light and brown green).
+
+            “Sanctuary: Exploring the World’s Protected Areas from Space,” published by the Institute for Global Environmental Strategies (Arlington, Virginia) with support from NASA, debuted at the 2014 World Parks Congress in Sydney, Australia. In the book’s foreword, NASA Administrator Charles Bolden writes, “NASA and numerous other space agency partners from around the globe have used this view from space to make incredible scientific advances in our understanding of how our planet works. As a result, we can now better gauge the impact of human activity on our environment and measure how and why our atmosphere, oceans, and land are changing. As a former astronaut who has looked upon our beautiful planet from space, I hope that we can advance the use of space-based remote sensing and other geospatial tools to study, understand, and improve the management of the world’s parks and protected areas as well as the precious biodiversity that thrives within their borders.”
+
+            Image Credit: NASA/USGS</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/egmont_park_hires.jpg?itok=5XX6nHLG" length="2254226" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/exploring-the-worlds-protected-areas-from-space</guid>
+        <pubDate>Fri, 14 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Welcome to a Comet, from Lander on Surface</title>
+        <link>http://www.nasa.gov/jpl/pia18876/welcome-to-a-comet-from-lander-on-surface</link>
+        <description>The Philae lander of the European Space Agency&#039;s Rosetta mission is safely on the surface of Comet 67P/Churyumov-Gerasimenko, as these first two images from the lander&#039;s CIVA camera confirm. One of the lander’s three feet can be seen in the foreground. The view is a two-image mosaic taken on Nov. 12, 2014.
+
+            The lander separated from the orbiter at 09:03 UTC (1:03 a.m. PST) for touch down on comet 67P seven hours later.
+
+            Rosetta and Philae had been riding through space together for more than 10 years. Philae is the first probe to achieve soft landing on a comet, and Rosetta is the first to rendezvous with a comet and follow it around the sun. The information collected by Philae at one location on the surface will complement that collected by the Rosetta orbiter for the entire comet.
+
+            Rosetta is a European Space Agency mission with contributions from its member states and NASA. Rosetta&#039;s Philae lander is provided by a consortium led by the German Aerospace Center, Cologne; Max Planck Institute for Solar System Research, Gottingen; French National Space Agency, Paris; and the Italian Space Agency, Rome. NASA&#039;s Jet Propulsion Laboratory, a division of the California Institute of Technology, Pasadena, manages the U.S. participation in the Rosetta mission for NASA&#039;s Science Mission Directorate in Washington.  Rosetta carries three NASA instruments in its 21-instrument payload.
+
+            For more information on the U.S. instruments aboard Rosetta, visit: http://rosetta.jpl.nasa.gov . For more information about Rosetta, visit http://www.esa.int/rosetta .
+
+            Copyright: ESA/Rosetta/Philae/CIVA</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/pia18876_welcome_to_a_comet.jpg?itok=Sm4I2CKZ" length="1454214" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/jpl/pia18876/welcome-to-a-comet-from-lander-on-surface</guid>
+        <pubDate>Thu, 13 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Orion Spacecraft Rolls Past the Vehicle Assembly Building</title>
+        <link>http://www.nasa.gov/content/orion-spacecraft-rolls-past-the-vehicle-assembly-building</link>
+        <description>At NASA&#039;s Kennedy Space Center in Florida, the agency&#039;s Orion spacecraft passes the spaceport&#039;s iconic Vehicle Assembly Building as it is transported to Launch Complex 37 at Cape Canaveral Air Force Station on the evening of Tuesday, Nov. 11, 2014. After arrival at the launch pad, United Launch Alliance engineers and technicians will lift Orion and mount it atop its Delta IV Heavy rocket. Orion began its journey to the launch pad at at the Launch Abort System Facility, where a 52-foot-tall protective fairing and the launch abort system were attached to the 10-foot, 11-inch-tall crew module. Resting atop a specialized Kamag transporter, Orion was moved to Space Launch Complex 37B at Cape Canaveral Air Force Station. The move began at 8:54 p.m. EST and concluded at 3:07 a.m., Wednesday, Nov. 12.
+
+            Orion is the exploration spacecraft designed to carry astronauts to destinations not yet explored by humans, including an asteroid and Mars. It will have emergency abort capability, sustain the crew during space travel and provide safe re-entry from deep space return velocities. Orion is scheduled to launch Dec. 4, 2014 atop a United Launch Alliance Delta IV Heavy rocket in its first unpiloted flight test, and in 2018 on NASA’s Space Launch System rocket.
+
+            &gt; More about Orion
+
+            Image Credit: NASA/Kim Shiflett</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/ksc-314d-0494_0047.jpg?itok=Sc7_HPy2" length="1799540" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/orion-spacecraft-rolls-past-the-vehicle-assembly-building</guid>
+        <pubDate>Wed, 12 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Expedition 41 Crew Lands Safely Back on Earth</title>
+        <link>http://www.nasa.gov/content/expedition-41-crew-lands-safely-back-on-earth</link>
+        <description>Expedition 41 Flight Engineer Alexander Gerst of the European Space Agency (ESA), left, Commander Max Suraev of the Russian Federal Space Agency (Roscosmos), center, and NASA Flight Engineer Reid Wiseman, sit in chairs outside the Soyuz TMA-13M capsule just minutes after they landed in a remote area near the town of Arkalyk, Kazakhstan on Monday, Nov. 10, 2014. Suraev, Wiseman and Gerst returned to Earth after more than five months onboard the International Space Station where they served as members of the Expedition 40 and 41 crews.
+
+            Image Credit: NASA/Bill Ingalls</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/201411100001hq.jpg?itok=t_4qcPk4" length="2140864" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/expedition-41-crew-lands-safely-back-on-earth</guid>
+        <pubDate>Mon, 10 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Astronaut Reid Wiseman Shares Earth Art While Preparing for Return</title>
+        <link>http://www.nasa.gov/content/astronaut-reid-wiseman-shares-earth-art-while-preparing-for-return</link>
+        <description>NASA astronaut Reid Wiseman shared this image of Yellowstone via his twitter account this morning. Wiseman later tweeted: &quot;We cranked up our #Soyuz this morning and test fired all the thrusters. Everything worked flawlessly - ready for a Sunday departure.&quot; - @astro_reid
+
+            The homebound Expedition 40/41 trio, consisting of Soyuz Commander Max Suraev and Flight Engineers Alexander Gerst and Wiseman, is counting down to its Nov. 9 departure inside the Soyuz TMA-13M spacecraft. They are packing gear to be returned home while they continue science and maintenance on the U.S. side of the International Space Station.
+
+            Back on Earth, the new Expedition 42/43 crew is getting ready for its launch to the space station from the Baikonur Cosmodrome in Kazakhstan on Nov. 23. Soyuz Commander Anton Shkaplerov will be joined by NASA astronaut Terry Virts and European Space Agency astronaut Samantha Cristoforetti aboard a Soyuz TMA-15M spacecraft to begin a 5-1/2 month mission aboard the orbital laboratory.
+
+            Space Station Blog
+
+            Image Credit: NASA/Reid Wiseman</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/b12ceraiiaebbvb.jpg_large.jpg?itok=G-XJacs1" length="151219" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/astronaut-reid-wiseman-shares-earth-art-while-preparing-for-return</guid>
+        <pubDate>Fri, 07 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>NASA&#039;s Solar Dynamics Observatory Captures Intense Space Weather</title>
+        <link>http://www.nasa.gov/content/nasas-solar-dynamics-observatory-captures-intense-space-weather</link>
+        <description>An active region on the sun emitted a mid-level solar flare, peaking at 4:47 a.m. EST on Nov. 5, 2014. This is the second mid-level flare from the same active region, labeled AR 12205, which rotated over the left limb of the sun on Nov. 3. The image was captured by NASA&#039;s Solar Dynamics Observatory (SDO) in extreme ultraviolet light that was colorized in red and gold.
+
+            Solar flares are powerful bursts of radiation. Harmful radiation from a flare cannot pass through Earth&#039;s atmosphere to physically affect humans on the ground, however -- when intense enough -- they can disturb the atmosphere in the layer where GPS and communications signals travel.
+
+            This flare is classified as an M7.9-class flare. M-class flares are a tenth the size of the most intense flares, the X-class flares. The number provides more information about its strength. An M2 is twice as intense as an M1, an M3 is three times as intense, etc.
+
+            More information on NASA&#039;s SDO Mission.
+
+            Image Credit: NASA/SDO</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/20141105-flare-171-304_1.jpeg?itok=_htdREYa" length="404417" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/nasas-solar-dynamics-observatory-captures-intense-space-weather</guid>
+        <pubDate>Thu, 06 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Orion Prepares to Move to Launch Pad</title>
+        <link>http://www.nasa.gov/content/orion-prepares-to-move-to-launch-pad</link>
+        <description>On Dec. 4, Orion is scheduled to launch atop a United Launch Alliance Delta IV Heavy rocket from Cape Canaveral Air Force Station’s Space Launch Complex 37 in Florida. During the test, Orion will travel 3,600 miles in altitude above Earth. 4 1/2 hours later, the spacecraft will reenter the atmosphere at 20,000 mph and splash down in the Pacific Ocean. Orion’s first flight will verify launch and high-speed reentry systems such as avionics, attitude control, parachutes and the heat shield.
+
+            Four recently-installed protective panels make up Orion&#039;s Ogive. The Ogive reduces drag and acoustic load on the crew module, making it a smoother ride for the spacecraft. Pictured here, inside the Launch Abort System Facility at NASA’s Kennedy Space Center in Florida, a crane brings the fourth and final Ogive panel closer for installation on Orion&#039;s Launch Abort System.
+
+            The Ogive installation was one of the last pieces of the puzzle for Orion prior to its move to the launch pad on Nov. 10. There, it will be lifted and attached to the rocket for its December launch.
+
+            More on Orion.
+
+            Image Credit: NASA</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/orion2014-4259_0.jpg?itok=TeD785wz" length="1658584" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/orion-prepares-to-move-to-launch-pad</guid>
+        <pubDate>Wed, 05 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Early Snow on the Great Smokies</title>
+        <link>http://www.nasa.gov/content/early-snow-on-the-great-smokies</link>
+        <description>A potent weather system with origins in Manitoba, Canada moved south across the Great Lakes on Halloween and blew all the way to Florida, bringing snow and hard frost to regions that do not see either in some winters. The storm system then moved back up the U.S. East Coast and pounded New England with a Nor&#039;easter.
+
+            This image shows the southern Appalachian Mountain range, along the border of Tennessee, North Carolina, and South Carolina, as fall color was turned to winter white. The natural-color image was acquired by the Visible Infrared Imaging Radiometer Suite on the Suomi NPP satellite on Nov. 2, 2014.
+
+            Six inches of snow fell in Asheville, North Carolina, where snow usually doesn&#039;t fall before Christmas. Higher in the mountains, near Gatlinburg, Tennessee, LeConte Lodge (elevation 6400 feet) reported 22 inches of snow and temperatures of 9 degrees Fahrenheit. In Columbia, South Carolina, measurable snow fell nine days earlier than ever recorded for that city.
+
+            More information.
+
+            Image Credit: NASA Earth Observatory</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/southernappalachia_vir_2014305_lrg.jpg?itok=kB50zMk6" length="4121020" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/early-snow-on-the-great-smokies</guid>
+        <pubDate>Tue, 04 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Glaciers and Mountains in West Antarctica</title>
+        <link>http://www.nasa.gov/content/glaciers-and-mountains-in-west-antarctica</link>
+        <description>Glaciers and mountains in the evening sun are seen on an Operation IceBridge research flight, returning from West Antarctica on Oct. 29, 2014.
+
+            NASA is carrying out its sixth consecutive year of Operation IceBridge research flights over Antarctica to study changes in the continent’s ice sheet, glaciers and sea ice. This year’s airborne campaign revisits a section of the Antarctic ice sheet that recently was found to be in irreversible decline.
+
+            IceBridge uses a suite of instruments that includes a laser altimeter, radar instruments, cameras, and a gravimeter, which is an instrument that detects small changes in gravity. These small changes reveal how much mass these glaciers have lost. Researchers plan to measure previously unsurveyed regions of Antarctica, such as the upper portions of Smith Glacier in West Antarctica, which is thinning faster than any other glaciers in the region. The mission also plans to collect data in portions of the Antarctic Peninsula, such as the Larsen C, George VI and Wilkins ice shelves and the glaciers that drain into them. The Antarctic Peninsula has been warming faster than the rest of the continent.
+
+            In addition to extending the data record of NASA’s Ice, Cloud and Land Elevation Satellite (ICESat), which stopped collecting data in 2009, IceBridge will also help set the stage for ICESat-2 by measuring ice the satellite will fly over.
+
+            &gt; Operation IceBridge Antarctic 2014 Campaign
+
+            Image Credit: NASA/Michael Studinger</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/glaciers_and_mountains.jpg?itok=b5crhDbD" length="426680" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/glaciers-and-mountains-in-west-antarctica</guid>
+        <pubDate>Mon, 03 Nov 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Specular Spectacular</title>
+        <link>http://www.nasa.gov/jpl/cassini/pia18432</link>
+        <description>This near-infrared, color mosaic from NASA&#039;s Cassini spacecraft shows the sun glinting off of Titan&#039;s north polar seas. While Cassini has captured, separately, views of the polar seas (see PIA17470) and the sun glinting off of them (see PIA12481 and PIA18433) in the past, this is the first time both have been seen together in the same view.
+
+            The sunglint, also called a specular reflection, is the bright area near the 11 o&#039;clock position at upper left. This mirror-like reflection, known as the specular point, is in the south of Titan&#039;s largest sea, Kraken Mare, just north of an island archipelago separating two separate parts of the sea.
+
+            This particular sunglint was so bright as to saturate the detector of Cassini&#039;s Visual and Infrared Mapping Spectrometer (VIMS) instrument, which captures the view. It is also the sunglint seen with the highest observation elevation so far -- the sun was a full 40 degrees above the horizon as seen from Kraken Mare at this time -- much higher than the 22 degrees seen in PIA18433. Because it was so bright, this glint was visible through the haze at much lower wavelengths than before, down to 1.3 microns.
+
+            The southern portion of Kraken Mare (the area surrounding the specular feature toward upper left) displays a &quot;bathtub ring&quot; -- a bright margin of evaporate deposits -- which indicates that the sea was larger at some point in the past and has become smaller due to evaporation. The deposits are material left behind after the methane &amp; ethane liquid evaporates, somewhat akin to the saline crust on a salt flat.
+
+            The highest resolution data from this flyby -- the area seen immediately to the right of the sunglint -- cover the labyrinth of channels that connect Kraken Mare to another large sea, Ligeia Mare. Ligeia Mare itself is partially covered in its northern reaches by a bright, arrow-shaped complex of clouds. The clouds are made of liquid methane droplets, and could be actively refilling the lakes with rainfall.
+
+            The view was acquired during Cassini&#039;s August 21, 2014, flyby of Titan, also referred to as &quot;T104&quot; by the Cassini team.
+
+            The view contains real color information, although it is not the natural color the human eye would see. Here, red in the image corresponds to 5.0 microns, green to 2.0 microns, and blue to 1.3 microns. These wavelengths correspond to atmospheric windows through which Titan&#039;s surface is visible. The unaided human eye would see nothing but haze, as in PIA12528.
+
+            The Cassini-Huygens mission is a cooperative project of NASA, the European Space Agency and the Italian Space Agency. JPL, a division of the California Institute of Technology, Pasadena, manages the mission for NASA&#039;s Science Mission Directorate in Washington. The VIMS team is based at the University of Arizona in Tucson.
+
+            More information about Cassini is available at http://www.nasa.gov/cassini and http://saturn.jpl.nasa.gov.
+
+            Image Credit: NASA/JPL-Caltech/University of Arizona/University of Idaho</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia18432.jpg?itok=5ICaiYOf" length="860203" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/jpl/cassini/pia18432</guid>
+        <pubDate>Fri, 31 Oct 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+    <item> <title>Fifteen Years of NASA&#039;s Chandra X-ray Observatory</title>
+        <link>http://www.nasa.gov/content/fifteen-years-of-nasas-chandra-x-ray-observatory</link>
+        <description>This Chandra X-ray Observatory image of the Hydra A galaxy cluster was taken on Oct. 30, 1999, with the Advanced CCD Imaging Spectrometer (ACIS) in an observation that lasted about six hours. Hydra A is a galaxy cluster that is 840 million light years from Earth. The cluster gets its name from the strong radio source, Hydra A, that originates in a galaxy near the center of the cluster. Optical observations show a few hundred galaxies in the cluster. Chandra X-ray observations reveal a large cloud of hot gas that extends throughout the cluster. The gas cloud is several million light years across and has a temperature of about 40 million degrees in the outer parts decreasing to about 35 million degrees in the inner region.
+
+            NASA&#039;s Chandra X-ray Observatory was launched into space fifteen years ago aboard the Space Shuttle Columbia. Since its deployment on July 23, 1999, Chandra has helped revolutionize our understanding of the universe through its unrivaled X-ray vision. Chandra, one of NASA&#039;s current &quot;Great Observatories,&quot; along with the Hubble Space Telescope and Spitzer Space Telescope, is specially designed to detect X-ray emission from hot and energetic regions of the universe.
+
+            Image Credit: NASA/CXC/SAO</description>
+        <enclosure url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/thumbnails/image/0087_xray.jpg?itok=a5ipLFXH" length="1488922" type="image/jpeg" />
+        <guid isPermaLink="false">http://www.nasa.gov/content/fifteen-years-of-nasas-chandra-x-ray-observatory</guid>
+        <pubDate>Thu, 30 Oct 2014 12:00:00 EDT</pubDate>
+        <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss">NASA Image of the Day</source>
+    </item>
+</channel>
+</rss>
